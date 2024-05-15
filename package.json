@@ -12,14 +12,10 @@
     "test": "jest ./test",
     "cli": "node ./src/cli.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alura-cursos/2708-node-lib-md.git"
-  },
-  "author": "",
+  "author": "Jhuli Spindola",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alura-cursos/2708-node-lib-md/issues"
+    "url": "https://github.com/jhuspindola"
   },
   "homepage": "https://github.com/alura-cursos/2708-node-lib-md#readme",
   "dependencies": {
