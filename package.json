@@ -1,0 +1,28 @@
+{
+  "name": "lib-test-jhu",
+  "version": "1.0.0",
+  "description": "Biblioteca para extração de links de textos em markdown.",
+  "keywords": ["markdown", "URL"],
+  "main": "./cli.js",
+  "bin": {
+    "<lib-test-jhu>": "./cli.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "jest ./test",
+    "cli": "node ./src/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alura-cursos/2708-node-lib-md.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alura-cursos/2708-node-lib-md/issues"
+  },
+  "homepage": "https://github.com/alura-cursos/2708-node-lib-md#readme",
+  "dependencies": {
+    "chalk": "5.0.1"
+  }
+}
